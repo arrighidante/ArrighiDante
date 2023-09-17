@@ -26,7 +26,7 @@ I also have experience with Cloud Technologies, specifically Google Cloud Platfo
 ![Jira](https://img.shields.io/badge/Jira-%230000FF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-# 💻 Tech Stack that I worked with:
+# 💻 Tech Stack that I've also worked with:
 ![VB.net](https://img.shields.io/badge/VB.net-%230072C6.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
