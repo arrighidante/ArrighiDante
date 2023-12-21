@@ -9,6 +9,7 @@ I began my journey as a solo Winform C# developer with SQL Compact + ADO.Net, wh
 I also have experience with Cloud Technologies, specifically Google Cloud Platform + Firebase. Over the last four to five years, I have worked extensively with Cloud Functions, GitHub Actions, Ionic, Angular Material, C#, Entity Framework and SQL, as well as tools like Jira and Confluence.
 
 ## 🌐 Socials:
+[![My Personal Website](https://img.shields.io/badge/My%20Personal%20Website-%231d2d4e.svg?style=for-the-badge&logo=web&logoColor=white)](https://dante-arrighi-web.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dante-arrighi/)
 [![Ut Simplex Website](https://img.shields.io/badge/Ut%20Simplex%20Website-%230072C6.svg?style=for-the-badge&logoColor=white)](https://utsimplex.com/)
 
