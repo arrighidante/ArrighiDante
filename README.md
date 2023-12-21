@@ -6,7 +6,7 @@ As a Co-Founder at Ut Simplex, I have had the opportunity to participate in nume
 <br>
 I began my journey as a solo Winform C# developer with SQL Compact + ADO.Net, which laid the foundation for my later transition to ASP.NET MVC, Entity Framework, and SQL Server. I developed a curiosity for Node.js during this time, and it wasn't long before I started exploring Front-End technologies such as Angular, Ionic, Angular Material, and Bootstrap.
 <br>
-I also have experience with Cloud Technologies, specifically Google Cloud Platform + Firebase. Over the last four to five years, I have worked extensively with Cloud Functions, GitHub Actions, Node.js, Ionic, Angular Material, as well as tools like Jira and Confluence.
+I also have experience with Cloud Technologies, specifically Google Cloud Platform + Firebase. Over the last four to five years, I have worked extensively with Cloud Functions, GitHub Actions, Ionic, Angular Material, C#, Entity Framework and SQL, as well as tools like Jira and Confluence.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dante-arrighi/)
