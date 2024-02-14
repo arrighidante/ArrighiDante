@@ -12,6 +12,7 @@ While you'll find a selection of my repositories here, it's just a snapshot of m
 <br>
 Currently, I'm exploring opportunities where I can leverage my skills as a Front-end or Full-stack developer. I'm also excited about stepping into new territories, and would warmly welcome Junior positions involving React, Nest, Next, and Node.
 
+
 ## 🌐 Socials:
 [![My Personal Website](https://img.shields.io/badge/My%20Personal%20Website-%231d2d4e.svg?style=for-the-badge&logo=web&logoColor=white)](https://dante-arrighi-web.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dante-arrighi/)
@@ -37,6 +38,11 @@ Currently, I'm exploring opportunities where I can leverage my skills as a Front
 ![RPA with UiPath](https://img.shields.io/badge/UiPath-%230078D4.svg?style=for-the-badge&logo=uipath&logoColor=white)
 ![BPM Diagrams](https://img.shields.io/badge/BPM%20Diagrams-%230000FF.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrighidante&langs_count=7&theme=dark&layout=compact)](https://github.com/arrighidante/github-readme-stats)
+
+<br>
 📧 If you want to chat with me, you can reach me directly throught Linkedin or mail me at dante@utsimplex.com
 
 📊 The repos that you'll find here are just a brief resume && || a demonstration of the technologies I've worked with 
