@@ -10,7 +10,7 @@ I also have experience with Cloud Technologies, specifically Google Cloud Platfo
 <br>
 While you'll find a selection of my repositories here, it's just a snapshot of my ongoing journey. I regularly update and add new projects, so stay tuned for more!
 <br>
-Currently, I'm exploring opportunities where I can leverage my skills as a Front-end or Full-stack developer. I'm also excited about stepping into new territories, and would warmly welcome Junior positions involving React, Nest, Next, and Node.
+Currently, I'm exploring opportunities where I can leverage my skills as a Front-end or Full-stack developer. I'm also excited about stepping into new territories, and would warmly welcome positions involving React, Nest, Next, and Node.
 
 
 ## 🌐 Socials:
