@@ -43,11 +43,11 @@ Currently, I'm exploring opportunities where I can leverage my skills as a Front
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrighidante&langs_count=7&theme=dark&layout=compact)](https://github.com/arrighidante/github-readme-stats)
 
 <br>
-📧 If you want to chat with me, you can reach me directly throught Linkedin or mail me at dante@utsimplex.com
+📧 If you want to chat with me, you can reach me directly throught Linkedin or mail me at dantearrighi@gmail.com
 
 📊 The repos that you'll find here are just a brief resume && || a demonstration of the technologies I've worked with 
 
-👏 ¡Please, give me a ⭐️ if you like my repos!
+👏
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
